@@ -1,3 +1,10 @@
+# [4.12.0](https://github.com/logicalclocks/quartz/compare/v4.11.1...v4.12.0) (2024-11-01)
+
+
+### Features
+
+* **alternative-header:** Add possibility to disable tab in alternative header ([#691](https://github.com/logicalclocks/quartz/issues/691)) ([9279f57](https://github.com/logicalclocks/quartz/commit/9279f57ead84e2a0f33092bbdb1b28f7ee10a012))
+
 ## [4.11.1](https://github.com/logicalclocks/quartz/compare/v4.11.0...v4.11.1) (2024-10-17)
 
 # [4.11.0](https://github.com/logicalclocks/quartz/compare/v4.10.5...v4.11.0) (2024-10-17)
